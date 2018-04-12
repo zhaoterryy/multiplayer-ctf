@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{269EFD38-454A-EF23-08F6-7CAA42E5BA4A}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "multiplayer",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
